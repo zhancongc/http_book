@@ -1,4 +1,4 @@
-# 《图解HTTP协议》摘要
+# 《图解HTTP协议》摘要（春水版）
 
 ## [第一章 web及网络基础](https://github.com/zhancongc/http/blob/master/01-web%E5%8F%8A%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
 ### 1.1 使用http访问web
